@@ -1,0 +1,14 @@
+# List of data sources
+- https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset
+- https://catalog.data.gov/dataset/real-estate-sales-2001-2018
+- https://www.chicagofed.org/publications/blogs/midwest-economy/2022/migration-before-and-during-pandemic
+- https://www.nber.org/papers/w27344
+- https://github.com/CSSEGISandData/COVID-19
+- https://github.com/nytimes/covid-19-data
+- https://www.zillow.com/research/data/
+- https://www.redfin.com/news/data-center/
+- https://www.fhfa.gov/data/hpi
+- https://www.census.gov/data/datasets.html
+- https://www.bls.gov/cps/telework.htm
+- https://covid.cdc.gov/covid-data-tracker/#datatracker-home
+- https://health.google.com/covid-19/open-data/
