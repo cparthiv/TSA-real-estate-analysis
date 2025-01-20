@@ -1,14 +1,12 @@
 # List of data sources
-- https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset
-- https://catalog.data.gov/dataset/real-estate-sales-2001-2018
-- https://www.chicagofed.org/publications/blogs/midwest-economy/2022/migration-before-and-during-pandemic
-- https://www.nber.org/papers/w27344
-- https://github.com/CSSEGISandData/COVID-19
-- https://github.com/nytimes/covid-19-data
-- https://www.zillow.com/research/data/
-- https://www.redfin.com/news/data-center/
-- https://www.fhfa.gov/data/hpi
-- https://www.census.gov/data/datasets.html
-- https://www.bls.gov/cps/telework.htm
-- https://covid.cdc.gov/covid-data-tracker/#datatracker-home
-- https://health.google.com/covid-19/open-data/
+- Zillow: Neighborhood_zhvi_uc_sfrcondo_tier_0.33_0.67_sm_sa_month
+- King County GIS Open Data:
+  - School_Sites_in_King_County___schsite_point.csv
+  - School_Sites_in_King_County___schsite_point.geojson
+  - Transit_Stops_for_King_County_Metro___transitstop_point.cs
+  - Transit_Stops_for_King_County_Metro___transitstop_point.geojson
+  - Transit_Routes_for_King_County_Metro___transitroute_line.csv
+  - Transit_Routes_for_King_County_Metro___transitroute_line.geojson
+- Census (data.census.gov):
+  - productDownload_2025-01-19T210140: Population demographics 2010 - 2023
+  - tract20: Census tract maps
