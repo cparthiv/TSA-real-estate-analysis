@@ -2,7 +2,9 @@
 
 Datasets are located in the `/datasets` directory.
 
-- Zillow: Neighborhood_zhvi_uc_sfrcondo_tier_0.33_0.67_sm_sa_month
+- Zillow:
+  - Neighborhood_zhvi_uc_sfrcondo_tier_0.33_0.67_sm_sa_month
+  - Zillow_Neighborhoods - Geodatabase of neighborhoods
 - King County GIS Open Data:
   - School_Sites_in_King_County___schsite_point.csv
   - School_Sites_in_King_County___schsite_point.geojson
