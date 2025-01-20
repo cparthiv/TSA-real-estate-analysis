@@ -1,4 +1,7 @@
 # List of data sources
+
+Datasets are located in the `/datasets` directory.
+
 - Zillow: Neighborhood_zhvi_uc_sfrcondo_tier_0.33_0.67_sm_sa_month
 - King County GIS Open Data:
   - School_Sites_in_King_County___schsite_point.csv
