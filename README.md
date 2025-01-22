@@ -1,4 +1,4 @@
 # Infrastructure's impact on Housing
 
-- [/datasets](/datasets)
-- [/visualizations](/visualizations)
+- [datasets](/datasets)
+- [visualizations](/visualizations)
