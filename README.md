@@ -1,4 +1,7 @@
 # Infrastructure's impact on Housing
 
+Repository
 - [datasets](/datasets)
-- [visualizations](/visualizations) 
+- [visualizations](/visualizations)
+
+[Documentation portfolio](docs.google.com/document/d/1bkKf_CpdCH3F2oUkHgElKbKZAWZ3G99EOHwgMAQPHH4/edit?tab=t.0)
